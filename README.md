@@ -1,6 +1,6 @@
 # Carbon WordPress Developer Assessment
 
-This repository contains my submission for the WordPress Developer & Marketing Skills Test. Please check documentation folder for section 3-6 annswers
+This repository contains my submission for the WordPress Developer & Marketing Skills Test. Please check documentation folder for section 3-6 answers
 
 ## Contents
 
