@@ -1,0 +1,59 @@
+/*
+Theme Name: Carbon365 Child
+Template: twentytwentyfive
+Version: 1.0
+*/
+
+.carbon365-landing {
+    padding: 80px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.carbon365-landing h1,
+.carbon365-landing h2 {
+    margin-bottom: 20px;
+}
+
+.carbon365-landing section {
+    margin-bottom: 60px;
+}
+
+.carbon-cta {
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.carbon-cta .btn {
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.btn-call {
+    background: #000;
+    color: #fff;
+}
+
+.btn-whatsapp {
+    background: #25D366;
+    color: #fff;
+}
+
+.cc-testimonials {
+    display: grid;
+    gap: 24px;
+}
+
+.cc-testimonial {
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+}
+
+.cc-rating {
+    color: #f5b301;
+    margin-top: 8px;
+}
